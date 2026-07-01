@@ -1,0 +1,37 @@
+.car-list__status {
+  padding: 40px 0;
+  text-align: center;
+  color: var(--text);
+}
+
+.car-list__status--error {
+  color: #d64545;
+}
+
+.car-list__count {
+  font-size: 13px;
+  margin: 16px 0 12px;
+  color: var(--text);
+}
+
+.car-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 12px;
+}
+
+.car-list__more {
+  display: block;
+  margin: 20px auto 0;
+  padding: 10px 24px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text);
+  font-size: 14px;
+}
+
+.car-list__more:hover {
+  border-color: var(--accent-border);
+  color: var(--text-h);
+}
