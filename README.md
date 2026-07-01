@@ -5,7 +5,7 @@ A car research tool that takes a buyer from "I don't know what to buy" to a shor
 **Live app:** https://cardekho-assignment-red.vercel.app
 **API:** https://cardekho-assignment-production-1dbe.up.railway.app
 **Repo:** https://github.com/DevangKaushik/Cardekho-Assignment
-**Screen recording:** [ADD LINK]
+**Screen recording:** https://drive.google.com/file/d/13SQZ8FFDtzbK77lg9kUrkFMF8mZfWCTo/view?usp=sharing
 
 ## What I built and why
 
